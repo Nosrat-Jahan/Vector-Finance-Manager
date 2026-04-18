@@ -1,0 +1,6 @@
+# Project Requirements for Vector-Finance-Manager
+# Core Framework: React 18+
+# Language: TypeScript 5.0+
+# UI Library: Lucide-React, Shadcn/UI
+# Styling: Tailwind CSS
+# Build Tool: Vite/NPM
